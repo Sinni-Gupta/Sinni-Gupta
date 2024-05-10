@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinni-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="sinni-gupta" /> </p>
 
-- 🌱 I’m currently learning **SQL,Ms Excel,Tableau, Power BI, Python**
+- 🌱 I’m currently learning **SQL,Ms Excel, Power BI, Python**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sinni-kumari-6669b7211/](https://www.linkedin.com/in/sinni-kumari-6669b7211/)
 
